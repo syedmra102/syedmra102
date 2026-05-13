@@ -28,9 +28,10 @@
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
-- 💬 Ask me about Linux, Bash, Git & DevOps Learning
+
+- 💬Ask me about Linux, Bash, Git & DevOps Learning
 - 📫 Reach me at: zada44919@gmail.com
--⚡Fun fact: I enjoy building automation scripts and learning infrastructure
+- ⚡Fun fact: I enjoy building automation scripts and learning infrastructure
 
 
 
