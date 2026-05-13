@@ -32,11 +32,9 @@
 - 📦 Package & Service Management Automation
 - 💾 Backup & Log Rotation Automation
 
-<h3 align="left"><font size="+2" face="Verdana">🔧 Linux DevOps Toolkit</font></h3>
-<p align="left">
-</p>
 
-<h3 align="left"><font size="+2" face="Verdana">Currently Learning:</font></h3>
+
+<h3 align="left"><font size="+2" face="Verdana">🚀Currently Learning:</font></h3>
 
 - ☁️ AWS Cloud
 - 🔄 CI/CD Pipelines
