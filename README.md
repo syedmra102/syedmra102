@@ -1,12 +1,8 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Syed Imran Shah <a href="https://www.youtube.com/@cloudchamp/">CloudChamp</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/syed-imran-shah-96bb6931a/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from Pakistan, learning Cloud and DevOps.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Syed Imran Shah. A passionate Devops Learner!!</a></font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/syed-imran-shah-96bb6931a/" target="_blank" rel="noreferrer">Syed Imran Shah</a> is a passionate DevOps Engineer from Pakistan, learning Cloud and DevOps.</font></h3>
 
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
+
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -15,9 +11,13 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
-
+- 🚀 Learning DevOps Engineering step by step
+- 🐧 Strong focus on Linux Administration & Shell Scripting
+- ⚙️ Building automation projects using Bash
+- 🌐 Learning Networking for DevOps
+- ☁️ Currently moving toward AWS, CI/CD, Docker, Kubernetes & Terraform
+- 📚 Consistently improving through hands-on projects
+- 💡 Interested in Cloud, Automation, Infrastructure & Platform Engineering
 
 
 #### Programming Language Stack
