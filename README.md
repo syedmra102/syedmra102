@@ -3,6 +3,7 @@
   <h3>Team Coordinator at Techno Matrix | BS Data Science Student | Aspiring Data Engineer & Analyst</h3>
 </div>
 
+<img align="right" height="280" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 ---
 
 ### About Me
