@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Syed Imran Shah.</h1>
-  <h3>Data Science undergraduate with hands-on industry experience as a Team Coordinator. Passionate about Data Analytics, Data Engineering, Cloud Computing and Machine Learning. Currently building production-ready data projects while pursuing a BS in Data Science.</h3>
+  <h3>Team Coordinator at Techno Matrix | BS Data Science Student at Virtual University | Aspiring Data Analyst | Learning Data Engineering & Machine Learning.</h3>
 </div>
 
 <img align="right" height="280" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
