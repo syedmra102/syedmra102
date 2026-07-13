@@ -11,12 +11,27 @@ I am a dedicated and self-motivated **Data Science student** with hands-on profe
 
 Currently pursuing my **Bachelor's in Data Science** from Virtual University of Pakistan while actively building strong technical expertise through consistent learning and real-world projects.
 
-### Technical Skills & Focus Areas
-- **Databases**: Advanced PostgreSQL (Window Functions, Performance Tuning, JSONB, ETL)
-- **Programming**: Python (Pandas, NumPy, Data Manipulation)
-- **Visualization**: Power BI, Advanced Excel
-- **Data Engineering**: Building scalable data pipelines and automation scripts
-- **Other**: Linux, Bash Scripting, Git, CRM Systems
+### Skills
+
+**Languages**
+- Python
+- SQL
+- Bash
+
+**Data**
+- PostgreSQL
+- Excel (Advanced)
+- Power BI
+- Pandas
+- NumPy
+
+**Cloud**
+- AWS
+
+**DevOps & Tools**
+- Linux
+- Docker
+- Git
 
 ### Currently Learning
 - End-to-end Data Engineering practices
