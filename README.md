@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Syed Imran Shah</h1>
+  <h1>Data Science undergraduate with hands-on industry experience as a Team Coordinator. Passionate about Data Analytics, Data Engineering, Cloud Computing and Machine Learning. Currently building production-ready data projects while pursuing a BS in Data Science.</h1>
   <h3>Team Coordinator at Techno Matrix | BS Data Science Student | Aspiring Data Engineer & Analyst</h3>
 </div>
 
