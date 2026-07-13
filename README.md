@@ -27,13 +27,3 @@ At the same time, I am pursuing my **BS in Data Science** from Virtual Universit
 - 📊 GitHub: Exploring Data & Automation Projects
 
 ---
-
-**How to use it:**
-1. Go to your GitHub repository (usually the one with your username).
-2. Edit the `README.md` file.
-3. Replace the old content with the new one above.
-4. Save and commit.
-
-This version looks professional, shows your current job positively, and highlights your learning journey in Data Science.
-
-Want me to make it even better or add specific projects section? Just tell me.
