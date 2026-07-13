@@ -1,29 +1,47 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Syed Imran Shah</h1>
-<h3 align="center">Team Coordinator at Techno Matrix | BS Data Science Student at Virtual University of Pakistan</h3>
-
-<img align="right" height="280" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-### About Me
-I am a motivated and self-driven student passionate about the **Data field**. Currently working as a **Team Coordinator** at Techno Matrix (night shift), where I manage academic projects, coordinate with writers, track deadlines, and ensure smooth operations using CRM systems.
-
-At the same time, I am pursuing my **BS in Data Science** from Virtual University of Pakistan and actively building strong technical skills through consistent daily learning.
-
-### What I'm Focused On
-- **Core Data Skills**: Advanced SQL (PostgreSQL), Python for Data Analysis, Power BI
-- **Current Learning Path**: Data Analysis → Data Engineering → Machine Learning
-- **Goals**: Become a well-rounded Data Professional (Analyst + Engineer)
-
-### Currently Learning & Building
-- Advanced PostgreSQL (Window Functions, Performance Tuning, JSONB, ETL patterns)
-- Python (Pandas, NumPy, Data Cleaning & Visualization)
-- Power BI for interactive dashboards and reporting
-- Data Engineering fundamentals (pipelines, modeling, automation)
-- End-to-end Data Projects (portfolio building)
-
-### Connect with me
-- 📧 Email: zada44919@gmail.com
-- 💼 LinkedIn: [Syed Imran Shah](https://www.linkedin.com/in/yourprofile)
-- 📊 GitHub: Exploring Data & Automation Projects
+<div align="center">
+  <h1>Hi 👋, I'm Syed Imran Shah</h1>
+  <h3>Team Coordinator at Techno Matrix | BS Data Science Student | Aspiring Data Engineer & Analyst</h3>
+</div>
 
 ---
+
+### About Me
+I am a dedicated and self-motivated **Data Science student** with hands-on professional experience as a **Team Coordinator** at Techno Matrix. I manage academic projects, coordinate cross-functional teams, track deliverables, and ensure high-quality operations using CRM systems.
+
+Currently pursuing my **Bachelor's in Data Science** from Virtual University of Pakistan while actively building strong technical expertise through consistent learning and real-world projects.
+
+### Technical Skills & Focus Areas
+- **Databases**: Advanced PostgreSQL (Window Functions, Performance Tuning, JSONB, ETL)
+- **Programming**: Python (Pandas, NumPy, Data Manipulation)
+- **Visualization**: Power BI, Advanced Excel
+- **Data Engineering**: Building scalable data pipelines and automation scripts
+- **Other**: Linux, Bash Scripting, Git, CRM Systems
+
+### Currently Learning
+- End-to-end Data Engineering practices
+- Machine Learning fundamentals
+- Cloud fundamentals (AWS/Azure)
+- Advanced analytics and dashboard development
+
+### Projects & Portfolio
+(Will be updated regularly with strong end-to-end projects)
+
+### Professional Experience
+**Team Coordinator**  
+Techno Matrix | 2026 – Present  
+- Managing academic project delivery for international clients
+- Coordinating with writers and ensuring timely completion
+- Handling client queries and maintaining quality standards
+- Working with CRM systems for project tracking and reporting
+
+### Education
+**BS Data Science**  
+Virtual University of Pakistan | 2026 – Present
+
+### Let's Connect
+- 📧 zada44919@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-real-profile-here)
+- 📊 Open to collaboration on Data projects
+
+---
+
