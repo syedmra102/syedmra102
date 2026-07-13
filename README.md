@@ -1,61 +1,39 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Syed Imran Shah. A passionate Devops Learner!!</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/syed-imran-shah-96bb6931a/" target="_blank" rel="noreferrer">Syed Imran Shah</a> is a passionate DevOps Engineer from Pakistan, learning Cloud and DevOps.</font></h3>
+<h1 align="center">Hi 👋, I'm Syed Imran Shah</h1>
+<h3 align="center">Team Coordinator at Techno Matrix | BS Data Science Student at Virtual University of Pakistan</h3>
 
+<img align="right" height="280" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
+### About Me
+I am a motivated and self-driven student passionate about the **Data field**. Currently working as a **Team Coordinator** at Techno Matrix (night shift), where I manage academic projects, coordinate with writers, track deadlines, and ensure smooth operations using CRM systems.
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+At the same time, I am pursuing my **BS in Data Science** from Virtual University of Pakistan and actively building strong technical skills through consistent daily learning.
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+### What I'm Focused On
+- **Core Data Skills**: Advanced SQL (PostgreSQL), Python for Data Analysis, Power BI
+- **Current Learning Path**: Data Analysis → Data Engineering → Machine Learning
+- **Goals**: Become a well-rounded Data Professional (Analyst + Engineer)
 
+### Currently Learning & Building
+- Advanced PostgreSQL (Window Functions, Performance Tuning, JSONB, ETL patterns)
+- Python (Pandas, NumPy, Data Cleaning & Visualization)
+- Power BI for interactive dashboards and reporting
+- Data Engineering fundamentals (pipelines, modeling, automation)
+- End-to-end Data Projects (portfolio building)
 
-- 🚀 Learning DevOps Engineering step by step
-- 🐧 Strong focus on Linux Administration & Shell Scripting
-- ⚙️ Building automation projects using Bash
-- 🌐 Learning Networking for DevOps
-- ☁️ Currently moving toward AWS, CI/CD, Docker, Kubernetes & Terraform
-- 📚 Consistently improving through hands-on projects
-- 💡 Interested in Cloud, Automation, Infrastructure & Platform Engineering
+### Connect with me
+- 📧 Email: zada44919@gmail.com
+- 💼 LinkedIn: [Syed Imran Shah](https://www.linkedin.com/in/yourprofile)
+- 📊 GitHub: Exploring Data & Automation Projects
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**How to use it:**
+1. Go to your GitHub repository (usually the one with your username).
+2. Edit the `README.md` file.
+3. Replace the old content with the new one above.
+4. Save and commit.
 
-<h3 align="left"><font size="+2" face="Verdana">🔧 Linux DevOps Toolkit</font></h3>
-<p align="left">
-</p>
+This version looks professional, shows your current job positively, and highlights your learning journey in Data Science.
 
-- 📊 Monitoring & Alerting Scripts
-- 👥 User & Group Automation Scripts
-- 📦 Package & Service Management Automation
-- 💾 Backup & Log Rotation Automation
-
-
-
-<h3 align="left"><font size="+2" face="Verdana">🚀Currently Learning:</font></h3>
-
-- ☁️ AWS Cloud
-- 🔄 CI/CD Pipelines
-- 🛠️ Jenkins Automation
-- 🐳 Docker Containers
-- ☸️ Kubernetes Orchestration
-- 🏗️ Terraform Infrastructure as Code
-- 📊 Grafana & Monitoring Stack
-  
-
-
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
-</p>
-
-- 💬Ask me about Linux, Bash, Git & DevOps Learning
-- 📫 Reach me at: zada44919@gmail.com
-- ⚡Fun fact: I enjoy building automation scripts and learning infrastructure
-
-
-
-
-
+Want me to make it even better or add specific projects section? Just tell me.
